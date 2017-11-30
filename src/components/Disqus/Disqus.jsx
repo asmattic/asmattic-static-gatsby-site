@@ -7,7 +7,7 @@ import Avatar from "react-md/lib/Avatars";
 import FontIcon from "react-md/lib/FontIcons";
 import Snackbar from "react-md/lib/Snackbars";
 import config from "../../../data/SiteConfig";
-
+/* eslint-disable */
 class Disqus extends Component {
   constructor(props) {
     super(props);

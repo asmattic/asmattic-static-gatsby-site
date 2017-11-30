@@ -4,7 +4,7 @@ import ToolbarActions from "../ToolbarActions/ToolbarActions";
 import Footer from "../Footer/Footer";
 import GetNavList from "./NavList";
 import "./Navigation.scss";
-
+/* eslint-disable */
 class Navigation extends Component {
   render() {
     const { children, config, LocalTitle } = this.props;

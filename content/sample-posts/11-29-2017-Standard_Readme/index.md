@@ -1,5 +1,13 @@
 ---
+title: "Standard Readme"
+cover: "/logos/logo-1024.png"
+category: "readme"
+tags:
 
+   - github
+   - markdown
+
+date: "11/29/2017"
 ---
 
 # Standard Readme

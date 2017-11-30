@@ -4,7 +4,7 @@ import Link from "gatsby-link";
 import UserLinks from "../UserLinks/UserLinks";
 import config from "../../../data/SiteConfig";
 import "./Footer.scss";
-
+/* eslint-disable */
 class Footer extends Component {
   render() {
     const url = config.siteRss;
